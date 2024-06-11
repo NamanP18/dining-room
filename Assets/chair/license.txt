@@ -1,0 +1,8 @@
+Model Information:
+* title:	Chair Kitchen
+* source:	https://sketchfab.com/3d-models/chair-kitchen-d8fbc3bfac454546a817833bb08de563
+* author:	threestar (https://sketchfab.com/threestar)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
